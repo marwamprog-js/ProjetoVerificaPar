@@ -13,9 +13,7 @@ import javax.swing.JOptionPane;
  */
 public class ProjectParImpar {
 
-    /**
-     * @param args the command line arguments
-     */
+
     
     
     
@@ -29,7 +27,7 @@ public class ProjectParImpar {
         num1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro numero.: "));
         num2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo numero.: "));
         
-        
+        JOptionPane.showInputDialog(null,"Teste");
         
         
     }
