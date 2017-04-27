@@ -27,7 +27,7 @@ public class ProjectParImpar {
         num1 = Integer.parseInt(JOptionPane.showInputDialog("Digite o primeiro numero.: "));
         num2 = Integer.parseInt(JOptionPane.showInputDialog("Digite o segundo numero.: "));
         
-        JOptionPane.showInputDialog(null,"Teste");
+        JOptionPane.showInputDialog(null,"Deu certo");
         
         
     }
